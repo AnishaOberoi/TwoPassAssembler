@@ -1,4 +1,5 @@
 # TwoPassAssembler
+This project contain a Two Pass Assembler in C Language 
 
 ---> Opcode and Operands 
 1. CLA , STP take no arguments or operands. 
